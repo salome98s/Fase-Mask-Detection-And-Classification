@@ -6,10 +6,3 @@ The main objectieve of this repo is to classify the faces with mask and without 
 
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
-
-CNN Architecture
-
-
-Results
-
-
