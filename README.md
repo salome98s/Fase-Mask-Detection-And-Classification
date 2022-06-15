@@ -7,14 +7,14 @@ The main objectieve of this repo is to classify the faces with mask and without 
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 
-**CNN Architecture Diagram**
+**SNN Architecture Diagram**
 
+![Ar-15 151424](https://user-images.githubusercontent.com/107298280/173803947-d79d43c1-72c1-4ebe-bd8c-d4559d43f526.png)
 
-![Screenshot from 2022-06-10 16-12-08](https://user-images.githubusercontent.com/107298280/173309029-3de90a5a-9cde-4903-8f8f-220aa2cdf519.png)
 
 
 **Result Diagram**
 
 
-![CM](https://user-images.githubusercontent.com/107298280/173309035-13d6f851-2b72-48ca-a02e-7c5d4eeb31ce.png)
 
+![cm](https://user-images.githubusercontent.com/107298280/173804013-27cad238-189d-480a-a94e-25bb286003d3.png)
