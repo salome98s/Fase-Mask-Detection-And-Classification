@@ -7,13 +7,13 @@ The main objectieve of this repo is to classify the faces with mask and without 
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 
-**SNN Architecture Diagram**
+**Confusion Matrix Report OF Fask-Mask-Detection**
 
-![Ar-15 151424](https://user-images.githubusercontent.com/107298280/173803947-d79d43c1-72c1-4ebe-bd8c-d4559d43f526.png)
+![Screenshot 2022-06-15 152859](https://user-images.githubusercontent.com/107298280/173806354-344538dd-976c-43c3-847a-23f56521e513.png)
 
 
 
-**Result Diagram**
+**Confusion Matrix Report OF SNN**
 
 
 
