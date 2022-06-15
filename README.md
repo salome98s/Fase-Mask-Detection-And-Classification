@@ -1,6 +1,6 @@
 **Introduction**
 
-The main objectieve of this repo is to classify the faces with mask and without mask. Face mask dataset from kaggle was used with customized CNN for the classification of images.
+The main objectieve of this repo is to classify the faces with mask and without mask. Face mask dataset from kaggle was used with customized SNN for the classification of images With Pytorch.
 
 **Dataset**
 
